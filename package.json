@@ -1,15 +1,13 @@
 {
   "name": "language-back-sass",
   "main": "./lib/language-back-sass",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A lanugage grammar for back-sass",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/rafael-kennedy/language-back-sass",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

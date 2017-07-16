@@ -1,0 +1,15 @@
+{
+  "name": "language-back-sass",
+  "main": "./lib/language-back-sass",
+  "version": "0.0.0",
+  "description": "A lanugage grammar for back-sass",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/language-back-sass",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

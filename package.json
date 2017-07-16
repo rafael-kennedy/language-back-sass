@@ -5,7 +5,7 @@
   "description": "A lanugage grammar for back-sass",
   "keywords": [
   ],
-  "repository": "github.com:rafael-kennedy/language-back-sass.git",
+  "repository": "https://github.com/rafael-kennedy/language-back-sass",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
